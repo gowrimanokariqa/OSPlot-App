@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50298" started-at="2023-04-17T09:19:38 IST" finished-at="2023-04-17T09:20:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50298" started-at="2023-04-17T09:19:38 IST" finished-at="2023-04-17T09:20:28 IST">
+      <class name="com.learning.osPlot.CustomerLoginTests">
+        <test-method status="PASS" signature="extentReport()[pri:0, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="extentReport" is-config="true" duration-ms="331" started-at="2023-04-17T09:19:38 IST" finished-at="2023-04-17T09:19:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReport -->
+        <test-method status="PASS" signature="start()[pri:0, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="start" is-config="true" duration-ms="20825" started-at="2023-04-17T09:19:38 IST" finished-at="2023-04-17T09:19:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="initialTest()[pri:0, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="initialTest" duration-ms="5800" started-at="2023-04-17T09:19:59 IST" finished-at="2023-04-17T09:20:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialTest -->
+        <test-method status="PASS" signature="noPhone()[pri:1, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="noPhone" duration-ms="4657" started-at="2023-04-17T09:20:05 IST" finished-at="2023-04-17T09:20:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noPhone -->
+        <test-method status="PASS" signature="validPhone()[pri:2, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="validPhone" duration-ms="4935" started-at="2023-04-17T09:20:09 IST" finished-at="2023-04-17T09:20:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validPhone -->
+        <test-method status="PASS" signature="validateOtpWithEmptyCrendial()[pri:3, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="validateOtpWithEmptyCrendial" duration-ms="3526" started-at="2023-04-17T09:20:14 IST" finished-at="2023-04-17T09:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOtpWithEmptyCrendial -->
+        <test-method status="PASS" signature="validateOtpWithValidCrendial()[pri:4, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="validateOtpWithValidCrendial" duration-ms="3954" started-at="2023-04-17T09:20:18 IST" finished-at="2023-04-17T09:20:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOtpWithValidCrendial -->
+        <test-method status="PASS" signature="validatePlanDetails()[pri:5, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="validatePlanDetails" duration-ms="1626" started-at="2023-04-17T09:20:22 IST" finished-at="2023-04-17T09:20:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePlanDetails -->
+        <test-method status="PASS" signature="validatePay()[pri:6, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="validatePay" duration-ms="836" started-at="2023-04-17T09:20:23 IST" finished-at="2023-04-17T09:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePay -->
+        <test-method status="PASS" signature="validateCompletedTab()[pri:7, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="validateCompletedTab" duration-ms="155" started-at="2023-04-17T09:20:24 IST" finished-at="2023-04-17T09:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCompletedTab -->
+        <test-method status="PASS" signature="validateReceipt()[pri:8, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="validateReceipt" duration-ms="1664" started-at="2023-04-17T09:20:24 IST" finished-at="2023-04-17T09:20:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateReceipt -->
+        <test-method status="PASS" signature="validateMorePlans()[pri:9, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="validateMorePlans" duration-ms="2207" started-at="2023-04-17T09:20:26 IST" finished-at="2023-04-17T09:20:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMorePlans -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="tearDown" is-config="true" duration-ms="11" started-at="2023-04-17T09:20:28 IST" finished-at="2023-04-17T09:20:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.learning.osPlot.CustomerLoginTests@5f71c76a]" name="close" is-config="true" duration-ms="683" started-at="2023-04-17T09:20:28 IST" finished-at="2023-04-17T09:20:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.learning.osPlot.CustomerLoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
